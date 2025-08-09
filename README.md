@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-📌 Open the URL in your browser: **https://app3-xv4r4cqlzqddwfyrux9qgv.streamlit.app/**  
+📌 Open the URL in your browser: **https://app3-xv4r4cqlzqddwfyrux9.streamlit.app/**  
 
 ---
 
